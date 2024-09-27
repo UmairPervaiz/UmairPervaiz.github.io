@@ -1,0 +1,16 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/projects/emdad/page": "app/projects/emdad/page.js",
+  "/projects/aml/page": "app/projects/aml/page.js",
+  "/projects/iCarePro/page": "app/projects/iCarePro/page.js",
+  "/projects/path/page": "app/projects/path/page.js",
+  "/projects/planner/page": "app/projects/planner/page.js",
+  "/projects/kyb/page": "app/projects/kyb/page.js",
+  "/projects/recordME/page": "app/projects/recordME/page.js",
+  "/projects/smartPunch/page": "app/projects/smartPunch/page.js",
+  "/webinars/dp_gcp/page": "app/webinars/dp_gcp/page.js",
+  "/webinars/nnfs/page": "app/webinars/nnfs/page.js",
+  "/webinars/cllm_bg/page": "app/webinars/cllm_bg/page.js",
+  "/webinars/swph/page": "app/webinars/swph/page.js"
+}

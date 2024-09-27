@@ -8,7 +8,7 @@ node_modules/
 .idea/
 
 # Ignore Next.js build output
-.next/
+# .next/
 
 # Ignore log files
 *.log

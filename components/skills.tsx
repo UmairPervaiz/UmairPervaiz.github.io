@@ -265,7 +265,7 @@ function Skills() {
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>Xero</h3>
+                <h3>Xero Accounting API</h3>
               </div>
             </div>
           </div>
@@ -280,7 +280,7 @@ function Skills() {
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>QuickBooks</h3>
+                <h3>QuickBooks Online API</h3>
               </div>
             </div>
           </div>

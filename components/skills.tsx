@@ -254,51 +254,6 @@ function Skills() {
               </div>
             </div>
           </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/xero.svg"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>Xero Accounting API</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/quickbooks.svg"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>QuickBooks Online API</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/ci-cd-line.svg"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>CI/CD pipeline</h3>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
